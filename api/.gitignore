@@ -24,6 +24,9 @@ media
 .idea/**/libraries 
 *.iws /out/ 
 
+# icloud
+*.icloud
+
 # Python # 
 *.py[cod] 
 *$py.class 
