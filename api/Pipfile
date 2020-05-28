@@ -4,19 +4,13 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
-pylint = "*"
-autopep8 = "*"
 
 [packages]
 django = "*"
 psycopg2 = "*"
-djangorestframework = "*"
-djoser = "*"
-djangorestframework-simplejwt = "*"
-django-cors-headers = "*"
-gunicorn = "*"
-martor = "*"
-django-heroku = "*"
+django-rest-framework = "*"
+django-rest-knox = "*"
+flake8 = "*"
 
 [requires]
 python_version = "3.7"
